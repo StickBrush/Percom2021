@@ -12,7 +12,7 @@ author: "percom21"
 instance_type: "c5.metal"
 
 #AWS Region.
-region: "us-east-2"
+region: "eu-west-1"
 
 ######### Environment Configuration #########
   #### Set of devices ####
