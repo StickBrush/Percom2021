@@ -349,7 +349,7 @@ public class MainActivity extends AppCompatActivity {
         }
     };
     //TODO: cAMBIAR PARA QUE VUELVA A PINTAR
-    // YO TE INVOCO
+    // OPFERT EURE HERZEN!
 
 
     private boolean isMyServiceRunning(Class<?> serviceClass) {
