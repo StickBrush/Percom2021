@@ -349,7 +349,7 @@ public class MainActivity extends AppCompatActivity {
         }
     };
     //TODO: cAMBIAR PARA QUE VUELVA A PINTAR
-    // OPFERT EURE HERZEN!
+    // QUIERO SER ENTRENADOR Y CON NUESTROS DIGIMON CONSEGUIRÉ QUE ESTE MUNDO SEA MUCHO MEJOR
 
 
     private boolean isMyServiceRunning(Class<?> serviceClass) {
